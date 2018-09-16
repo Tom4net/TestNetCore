@@ -1,0 +1,11 @@
+E:\vscodeWorkspace\dotnetTest\bin\Debug\netcoreapp2.1\dotnetTest.deps.json
+E:\vscodeWorkspace\dotnetTest\bin\Debug\netcoreapp2.1\dotnetTest.runtimeconfig.json
+E:\vscodeWorkspace\dotnetTest\bin\Debug\netcoreapp2.1\dotnetTest.runtimeconfig.dev.json
+E:\vscodeWorkspace\dotnetTest\bin\Debug\netcoreapp2.1\dotnetTest.dll
+E:\vscodeWorkspace\dotnetTest\bin\Debug\netcoreapp2.1\dotnetTest.pdb
+E:\vscodeWorkspace\dotnetTest\obj\Debug\netcoreapp2.1\dotnetTest.csprojAssemblyReference.cache
+E:\vscodeWorkspace\dotnetTest\obj\Debug\netcoreapp2.1\dotnetTest.csproj.CoreCompileInputs.cache
+E:\vscodeWorkspace\dotnetTest\obj\Debug\netcoreapp2.1\dotnetTest.AssemblyInfoInputs.cache
+E:\vscodeWorkspace\dotnetTest\obj\Debug\netcoreapp2.1\dotnetTest.AssemblyInfo.cs
+E:\vscodeWorkspace\dotnetTest\obj\Debug\netcoreapp2.1\dotnetTest.dll
+E:\vscodeWorkspace\dotnetTest\obj\Debug\netcoreapp2.1\dotnetTest.pdb
