@@ -16,7 +16,7 @@ namespace Cloud.Core.Containers
             where TService : class
             where TImplatement : class;
 
-        TImplatement Resolve<TService>()
+        TService Resolve<TService>()
             where TService : class;
         object Resolve(Type serviceType);
         bool TryResolve<TService>(out TService instance) where TService : class;

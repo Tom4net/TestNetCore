@@ -7,9 +7,16 @@ namespace Cloud.Core.Containers
         public static IObjectContainer Current { get; private set; }
 
         private ObjectContainer() { }
-        public static SetObjectContainer(IObjectContainer objectcontainer)
+        public static void SetObjectContainer(IObjectContainer objectcontainer)
         {
             Current = objectcontainer;
         }
+
+        public static void BuildContainer()
+        {
+            Current.Build();
+        }
     }
+
+
 }
