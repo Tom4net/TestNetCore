@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cloud.Core", "src\Core\Clou
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Extend", "Extend", "{8D1F495F-A5DE-4852-B0C7-83E121A6CDF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cloud.Extend.Autofac", "src\core\Cloud.Extend.Autofac\Cloud.Extend.Autofac.csproj", "{B2EC333B-8667-4C7E-9AA1-C162C1BF06E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cloud.Extend.Log4net", "src\core\Cloud.Extend.Log4net\Cloud.Extend.Log4net.csproj", "{6295D8B4-36DE-402F-924C-A1C98E309327}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{A8603E16-B61A-44AE-8453-F904FB30D878}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8603E16-B61A-44AE-8453-F904FB30D878}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8603E16-B61A-44AE-8453-F904FB30D878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2EC333B-8667-4C7E-9AA1-C162C1BF06E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2EC333B-8667-4C7E-9AA1-C162C1BF06E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2EC333B-8667-4C7E-9AA1-C162C1BF06E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2EC333B-8667-4C7E-9AA1-C162C1BF06E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6295D8B4-36DE-402F-924C-A1C98E309327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6295D8B4-36DE-402F-924C-A1C98E309327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6295D8B4-36DE-402F-924C-A1C98E309327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6295D8B4-36DE-402F-924C-A1C98E309327}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -35,6 +47,8 @@ Global
 		{0ECA682B-FE98-4C9B-ADCC-3720F23A29E6} = {9204760A-10F3-4D7F-9675-68DBCDCF6197}
 		{A8603E16-B61A-44AE-8453-F904FB30D878} = {0ECA682B-FE98-4C9B-ADCC-3720F23A29E6}
 		{8D1F495F-A5DE-4852-B0C7-83E121A6CDF6} = {9204760A-10F3-4D7F-9675-68DBCDCF6197}
+		{B2EC333B-8667-4C7E-9AA1-C162C1BF06E0} = {0ECA682B-FE98-4C9B-ADCC-3720F23A29E6}
+		{6295D8B4-36DE-402F-924C-A1C98E309327} = {0ECA682B-FE98-4C9B-ADCC-3720F23A29E6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EDFADE14-E728-4BDA-B036-1D49C9863F92}
